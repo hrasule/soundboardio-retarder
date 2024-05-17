@@ -1,0 +1,96 @@
+{
+    "name": "Partička - Retárdér",
+    "shortName": "Retardér",
+    "description": "Partička: Párty: Drogový dealer, bludný Holanďan a retardér",
+    "author": {
+        "name": "hrasule",
+        "url": "https://github.com/hrasule/soundboardio-retarder"
+    },
+    "color": "#8b2e37",
+    "version": "1.0.0",
+    "lang": "cs",
+    "rootUrl": "sounds/",
+    "icons": [
+        {
+            "src": "/icons/icon.svg",
+            "sizes": "256x256",
+            "purpose": "maskable any",
+            "type": "image/svg"
+        },
+        {
+            "src": "/icons/icon.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "tiles": [
+        {
+            "name": "Náměstí",
+            "filename": "namesti.mp3"
+        },
+        {
+            "name": "Buchtičky se šodó",
+            "filename": "buchticky se sodo.mp3"
+        },
+        {
+            "name": "S hranolkama",
+            "filename": "s hranolkama.mp3"
+        },
+        {
+            "name": "My jsme měli smažák",
+            "filename": "my jsme meli smazak.mp3"
+        },
+        {
+            "name": "Nesmim kouřit",
+            "filename": "nesmim kourit.mp3"
+        },
+        {
+            "name": "Kam?",
+            "filename": "kam.mp3"
+        },
+        {
+            "name": "A kde jsem byl já?",
+            "filename": "a kde jsem byl ja.mp3"
+        },
+        {
+            "name": "Ty jsi byl v Americe",
+            "filename": "ty jsi byl v americe.mp3"
+        },
+        {
+            "name": "Stáčel",
+            "filename": "stacel.mp3"
+        },
+        {
+            "name": "Víno",
+            "filename": "vino.mp3"
+        },
+        {
+            "name": "Víno 2",
+            "filename": "vino2.mp3"
+        },
+        {
+            "name": "Kdo?",
+            "filename": "kdo.mp3"
+        },
+        {
+            "name": "Kamarádi",
+            "filename": "kamaradi.mp3"
+        },
+        {
+            "name": "Tak jo",
+            "filename": "takjo.mp3"
+        },
+        {
+            "name": "Ne",
+            "filename": "ne.mp3"
+        },
+        {
+            "name": "Lehnout",
+            "filename": "lehnout.mp3"
+        },
+        {
+            "name": "Ahoj",
+            "filename": "ahoj.mp3"
+        }
+    ]
+}
