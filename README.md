@@ -3,7 +3,7 @@
   <h1 align="center">SoundBoardio plugin: Partička - Retardér</h1>
 </p>
 
-> Plugin for [SoundBoardio.com](https://soundboardio.com) app ever!
+> Plugin for [SoundBoardio.com](https://soundboardio.com) app.
 
 ## Creating Sound Board
 
