@@ -12,13 +12,13 @@
     "rootUrl": "sounds/",
     "icons": [
         {
-            "src": "/icons/icon.svg",
+            "src": "/icons/logo.svg",
             "sizes": "256x256",
             "purpose": "maskable any",
             "type": "image/svg"
         },
         {
-            "src": "/icons/icon.png",
+            "src": "/icons/logo.png",
             "sizes": "256x256",
             "type": "image/png"
         }
